@@ -1,8 +1,7 @@
 # Web Traffic Processing with Apache Flink
-
-![alt text](Apache_Flink_logo.svg.png)
-
 A real-time web traffic processing pipeline using **Apache Flink**, **Kafka**, and **PostgreSQL**. Ingests raw web events, enriches them with geolocation information, and performs both fixed-time and session-based aggregations.
+
+<img width="1806" height="676" alt="Untitled-2025-08-29-2044" src="https://github.com/user-attachments/assets/ec275d07-1cc3-40c7-ad0b-be13890c4f3f" />
 
 ---
 
